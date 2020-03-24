@@ -1,0 +1,2 @@
+rootProject.name='Incremental Update'
+include ':app'
